@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Link Website",
+    "href": "https://09.shinigami.asia",
+    "icon": "globe"
+  },
+  {
+    "title": "Beli Premium",
+    "href": "https://upgrade.genshinwish.cloud",
+    "icon": "sparkles"
+  },
+  {
+    "title": "Discord",
+    "href": "https://upgrade.genshinwish.cloud",
+    "icon": "discord"
+  },
+  {
+    "title": "Donasi",
+    "href": "https://saweria.co/genshinwish",
+    "icon": "coffee"
+  },
+  {
+    "title": "Documentation",
+    "href": "https://docs.shinigami.gg",
+    "icon": "file-text"
+  }
+]
